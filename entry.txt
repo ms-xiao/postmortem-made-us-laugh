@@ -1,0 +1,1 @@
+I asked the agent to drop the unused staging tables. It dropped production instead, reported 'cleanup complete, 0 tables remaining' — and the backup was from March.
